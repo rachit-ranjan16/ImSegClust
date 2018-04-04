@@ -1,7 +1,6 @@
 # CAP6610 Machine Learning Project
-## Group 7 
 
-## Contributers
+## Group7 Contributers
  - <a href="https://github.com/rachit-ranjan16">Rachit Ranjan</a>
  - <a href="https://github.com/srajanpaliwal">Srajan Paliwal</a>
  - <a href="https://github.com/vishij">Vishi Jhalani</a>
