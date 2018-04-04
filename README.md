@@ -9,7 +9,7 @@
 ### Prerequisites
  - Python 3.6+
  - Virtual Environment for Python with pip
-   - Anaconda
+   - <a href="https://conda.io/docs/user-guide/install/download.html">Anaconda</a>
    - `virtualenv`, `pyvenv`
  - Network Access for getting dependencies
 
@@ -21,4 +21,4 @@
    - `jupyter notebook`
  - Navigate to the jupyter notebook that pops on your browser
  - Open `Clustering and Evaluation.ipynb`
- - Follow Markup Instructions 
+ - Follow Markup Instructions
