@@ -13,6 +13,7 @@ matplotlib==2.2.2
 networkx==2.1
 numexpr==2.6.4
 numpy==1.14.2
+pandas==0.22.0
 parso==0.1.1
 pexpect==4.4.0
 pickleshare==0.7.4
@@ -31,7 +32,7 @@ scikit-learn==0.19.1
 scipy==1.0.1
 simplegeneric==0.8.1
 six==1.11.0
-git+git://github.com/sevamoo/SOMPY.git
+SOMPY==1.0
 spectral==0.19
 tornado==5.0.1
 traitlets==4.3.2
